@@ -7,4 +7,5 @@
 4. Игнор файлов с расширением ifvars
 5. Игнор файлов override.tf, override.tf.json, а так же файлов, содержашие *_override.tf и *_override.tf.json
 6. Игнор файлjd terraform.rc и .terraformrc
-
+-------------------------
+Новая строчка в рамках ветки fix
